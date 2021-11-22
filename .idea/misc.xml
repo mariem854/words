@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/benfm/AndroidStudioProjects/Words_starter_code/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/benfm/AndroidStudioProjects/Words_starter_code/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.2" />
+        <entry key="..\:/Users/benfm/AndroidStudioProjects/Words_starter_code/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.20010422094841063" />
         <entry key="..\:/Users/benfm/AndroidStudioProjects/Words_starter_code/Words/app/src/main/res/layout/ic_grid_layout.xml" value="0.2" />
         <entry key="..\:/Users/benfm/AndroidStudioProjects/Words_starter_code/Words/app/src/main/res/layout/ic_linear_layout.xml" value="0.2" />
       </map>
