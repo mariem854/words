@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.iset.mariem">
+    package="com.mariem.words">
 
     <application
         android:allowBackup="true"
@@ -12,11 +12,11 @@
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
         <activity
-            android:name="com.iset.mariem.DetailActivity"
+            android:name="com.mariem.words.DetailActivity"
             android:exported="false"
-            android:parentActivityName="com.iset.mariem.MainActivity" />
+            android:parentActivityName="com.mariem.words.MainActivity" />
         <activity
-            android:name="com.iset.mariem.MainActivity"
+            android:name="com.mariem.words.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

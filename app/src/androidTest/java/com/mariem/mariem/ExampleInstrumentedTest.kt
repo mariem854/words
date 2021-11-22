@@ -1,4 +1,4 @@
-package com.iset.mariem
+package com.mariem.mariem
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
